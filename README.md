@@ -1,19 +1,15 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**laneyNL/laneyNL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Laney and I am a pharmacist turned full stack software engineer with a love for creating and problem solving.
 
-Here are some ideas to get you started:
+[Visit my website to learn more about me!](laneyluong.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laneyluong/)
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I have 2 rabbits and 2 dogs. 
 
 
-[![Laney's GitHub stats](https://github-readme-stats.vercel.app/api?username=laneyNL)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Laney's GitHub stats](https://github-readme-stats.vercel.app/api?username=laneyNL&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laneyNL&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
