@@ -2,7 +2,7 @@
 
 My name is Laney and I am a pharmacist turned full stack software engineer with a love for creating and problem solving.
 
-[Visit my website to learn more about me!](laneyluong.com)
+[Visit my website to learn more about me!](http://laneyluong.com)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laneyluong/) | [AngelList](https://angel.co/u/laney-luong)
 - 😄 Pronouns: she/her/hers
